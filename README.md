@@ -1,13 +1,10 @@
-# Sandys-recipebook
+# Delicious-recipebook
 
-Sandys-recipebook is a recipe app which contains wide variety of dishes along with the list of ingredients and cooking instructions. 
+Delicious-recipebook is a recipe app which contains wide variety of dishes along with the list of ingredients and cooking instructions. 
 
 TechStack used: 
 React.JS,
 Spoonacular API
-
-## Live Deployed url: 
-[sandys-recipebook.com](https://sandys-recipebook.netlify.app)
 
 ## Installation
 
